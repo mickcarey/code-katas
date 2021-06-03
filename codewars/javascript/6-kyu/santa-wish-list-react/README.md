@@ -1,6 +1,6 @@
 ## Santa wish list form in ReactJS
 
-[CodeWars Link](https://www.codewars.com/kata/5a9ecd89fd5777e0790001ea)
+[CodeWars Link](https://www.codewars.com/kata/5a9ecd89fd5777e0790001ea/javascript)
 
 Santa wants to simplify his life and offer children the possiblity to enter their wishlist via an online form.
 

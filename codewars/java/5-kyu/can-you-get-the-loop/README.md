@@ -17,4 +17,5 @@ node.getNext()
 Note: do NOT mutate the nodes!
 
 > Thanks to shadchnev, I broke all of the methods from the Hash class.
+
 > Don't miss dmitry's article in the discussion after you pass the Kata !! 

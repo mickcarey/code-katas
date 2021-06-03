@@ -6,7 +6,7 @@ You are given a node that is the beginning of a linked list. This list always co
 
 For example in the following picture the tail's size is 3 and the loop size is 12:
 
-![Node Loop Diagram](node-loop-diagram.svg)
+<img src="node-loop-diagram.svg" width="300" />
 
 
 ```

@@ -1,4 +1,4 @@
-const kata = (number) => {
+const multiples = (number) => {
     if (number <= 0) {
         return 0;
     }

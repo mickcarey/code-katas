@@ -1,6 +1,6 @@
 /** 
 Test cases below as none originally provided in CodeWars console during development
-(Copy below into CodeWars test console)
+(Copy below into CodeWars test console) - Using Node with Babel
 **/
 
 const chai = require("chai");
@@ -32,7 +32,7 @@ describe("Testing class access", () => {
   it("should not be able to access internal methods or properties", () => {
     assert.throws(() => { user.getNewRank(user.rank, 1); });
     assert.throws(() => { user.calculatePoints(user.rank, 8); });
-    assert.throws(() => { user.updateValue({}, "_progress", () => { this._progress = 9; }); });
+    assert.throws(() => { user.updateValue({}, "_progress", () => 97); });
     assert.equal(user.RankSystem, undefined);
   });
 });
